@@ -17,7 +17,6 @@
 ![Visual Studio 2022](https://img.shields.io/badge/-Visual%20Studio%202022-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=5C2D91&labelColor=0D1117)&nbsp;
 ![Apache Netbens](https://img.shields.io/badge/-Apache%20Netbeans-0D1117?style=for-the-badge&logo=apachenetbeanside&logoColor=1B6AC6&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&logoColor=1B6AC6&labelColor=0D1117)&nbsp;
 
 ## **Conhecimentos adicionais:**
 ![SQL](https://img.shields.io/badge/-sql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
