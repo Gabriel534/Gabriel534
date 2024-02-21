@@ -1,13 +1,8 @@
 ## **Sobre Mim:**
 
 * Cursando Bacharelado em Engenharia da Computação
-* Desenvolvedor Freelancer
-* Atualmente faço estagio aprendiz na Multi
-
-                                                       
-
+* Desenvolvedor Freelancer                                        
 <br>
-  
 
 ## **Principais Habilidades:**
 
