@@ -7,7 +7,7 @@
 ## **Principais Habilidades:**
 
 ![PYTHON](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&logoColor=3776AB&labelColor=0D1117)&nbsp;
-![JAVA](https://img.shields.io/badge/-JAVA-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
+![JAVA](https://img.shields.io/badge/-JAVA-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/-CSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=512BD4&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 
