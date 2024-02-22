@@ -27,7 +27,7 @@
 ## **Contatos:**
 <div style="display: inline_block">
   
-<a href="https://github.com/Gabriel534" target="_blank" style="text-decoration:none;" ><img align="center"   height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>
+<a href="https://www.linkedin.com/in/gabriel-sampaio-santos-a03779193/" target="_blank" style="text-decoration:none;" ><img align="center"   height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>
 <a href="https://wa.me/5535988315589" target="_blank" style="text-decoration:none;"><img align="center"   height="40" width="40" src="https://logopng.com.br/logos/whatsapp-33.png"></a>
   
 </div>
