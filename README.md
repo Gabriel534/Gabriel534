@@ -1,7 +1,8 @@
 ## **Sobre Mim:**
 
 * Cursando Bacharelado em Engenharia da Computação
-* Desenvolvedor Freelancer                                        
+* Desenvolvedor Freelancer
+* [Portifólio](https://sites.google.com/senaimgaluno.com.br/portifoliogabrielsampaio/p%C3%A1gina-inicial)                               
 <br>
 
 ## **Principais Habilidades:**
